@@ -1,6 +1,6 @@
 # CandySpace Test
 
-Look at the [This](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Look at the [This](https://candyspace-nuxt-test.netlify.app/) to see the live project.
 
 ## Setup
 
